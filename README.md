@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 A web based application to allow school administrators and teachers to manage school records more efficiently
 
 Tecnologies Used:-
@@ -6,7 +6,7 @@ Tecnologies Used:-
 + Front-end constructed using typical HTML, CSS, JS and Bootstrap
 + Database: MySQL
 
-## Functionalities
+# Functionalities
 The functionalities are divided based off the 2 user groups: **Administrator** & **Teacher**  
 
 || Administrator| Teacher  |
